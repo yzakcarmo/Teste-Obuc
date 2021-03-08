@@ -1,0 +1,40 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.content_interface {
+  width: 100%;
+  margin: auto;
+}
+.register-informationlist {
+  height: 96%;
+}
+#register {
+  display: flex;
+}
+.content_box {
+  justify-content: space-evenly;
+  padding-top: 15px;
+  width: 80%;
+  height: 100vh;
+}
+a {
+  text-decoration: none;
+  color: #ffff;
+}
+form ul li p {
+  margin: 0;
+}
+ul {
+  margin: 0;
+  padding: 0;
+}
+li {
+  list-style: none;
+}
+table {
+  margin-top: 5px;
+}
+button {
+  border-style: none;
+}
